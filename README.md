@@ -1,5 +1,34 @@
 # LILO FOOD AND BEVERAGES SALES ANALYSIS
 
+## Table of content
+
+ -[Project overview](#project-overview)
+ 
+ -[Data source](#data-source)
+
+ -[Tools](#tools)
+
+ -[Data cleaning/preparation](##data-cleaning-preparation)
+
+ -[Exploratory Data Analysis](#exploratory-data-analysis)
+
+ -[Data Analysis](#data-analysis)
+
+ -[Result/Findings](#result-findings)
+
+ -[Recommendation](#recommendation)
+
+ -[Limitation](#limitation)
+ 
+ 
+
+
+
+ 
+  
+
+
+ 
 ### Project overview
 
 This data analysis project aims to provide insight into sales performance of LILO Food&Beverage company over the past year. By analyzing various aspect of the sales data                      we seek to identify trends, make data driven recommendation and gain a deeper understanding of the company performance.
@@ -56,6 +85,15 @@ distictcount(total order) in sales dataset
 
 ### Recommendation
 
+Based on the analysis we recommend the following action:
+1.why does october has the highest distribution and order
+2.flour generate the most revenue therefore the company should invest more on that product
+3.The top 3 salepersons should share their insight with their colleague
+4.Food makes the highes revenue so the company should invest more on their food product
+
+### Limitation
+
+Some rows where blank and had to be removed
 
 
 
