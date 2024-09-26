@@ -33,6 +33,15 @@
 
 This data analysis project aims to provide insight into sales performance of LILO Food&Beverage company over the past year. By analyzing various aspect of the sales data                      we seek to identify trends, make data driven recommendation and gain a deeper understanding of the company performance.
 
+![Screenshot 2024-09-26 191624](https://github.com/user-attachments/assets/87cf1259-d927-4ff9-be10-4e4e2cd7ad38)
+
+
+
+
+
+
+
+
 ### Data source
 
 Sales Data: The primary dataset used for this analysis is the "Sales_data & Product.xlsx" file, containing detailed information about each sales made by the company.
